@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.939" errors="0" skipped="0" tests="1" name="br.calculadora2.Calculadora2.AppTest">
+<testsuite failures="0" time="1.067" errors="0" skipped="0" tests="1" name="br.calculadora2.Calculadora2.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre7\bin"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="E:\WORKSTATION\FRAMEWORKS\Calculadora2"/>
+    <property name="user.dir" value="C:\Users\Joshua\git\Calculadora\Calculadora2"/>
     <property name="java.runtime.version" value="1.7.0_45-b18"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="E:\WORKSTATION\FRAMEWORKS\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2874323852617612524.tmp"/>
+    <property name="classworlds.conf" value="E:\WORKSTATION\FRAMEWORKS\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7203702290308110417.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jre6\bin;C:\Program Files\Java\jdk1.7.0_40\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Users\Joshua\Documents\apache-maven-3.2.2\bin;%java_home%\bin;.;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -62,5 +62,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.939" classname="br.calculadora2.Calculadora2.AppTest" name="test"/>
+  <testcase time="1.067" classname="br.calculadora2.Calculadora2.AppTest" name="test"/>
 </testsuite>
