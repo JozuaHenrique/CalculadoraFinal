@@ -1,6 +1,6 @@
 package br.calculadora2.Calculadora2;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 import org.junit.After;
 import org.junit.Before;
@@ -32,8 +32,13 @@ public class AppTest {
 	}
 //	@Test
 //	public void testFalho(){
-//		assertEquals(5,app.soma(3, 3));
-//		
+//		assertNotEquals(5,app.soma(3, 3));
 //	}
-
+//	
+	
+	@Test
+	public void testFalho(){
+		assertEquals(5,app.soma(3, 3));
+		
+	}
 }
